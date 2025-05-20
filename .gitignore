@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+.env/
+.venv/
+venv/
+ENV/
+.envrc
+.env.*
+# VSCode
+.vscode/
+# System
+.DS_Store
+Thumbs.db
+# Docker
+*.log
+dist/
+build/
+# Jupyter
+.ipynb_checkpoints/
